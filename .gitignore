@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+.venv/
+__pycache__/
+*.pyc
+
+chroma_db/
+.ipynb_checkpoints/
+notebook/
